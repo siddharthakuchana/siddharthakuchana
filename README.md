@@ -1,14 +1,11 @@
-<!-- Top Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=220&section=header&text=Siddhartha%20Kuchana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Thinker%20%7C%20Builder%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=60" width="100%" />
 </p>
 
-<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Namaste%2C+I'm+Siddhartha+Kuchana;Python+Developer+%7C+ML+Practitioner;Building+Highly+Efficient+AI+Agent+Pipelines;Currently+Diving+Deep+into+Deep+Learning" alt="Typing SVG" />
 </p>
 
-<!-- Badges -->
 <p align="center">
   <a href="https://siddharthakuchana.com">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -76,9 +73,9 @@
   <img src="https://streak-stats.demolab.com?user=siddharthakuchana&theme=dark&hide_border=true&background=0f141c&fire=ffffff&ring=444444&currStreakNum=aaaaaa&currStreakLabel=aaaaaa&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_current_streak=true" height="150" />
 </p>
 
-<h2 align="center">CONTRIBUTION CALENDAR</h2>
+<h2 align="center">CONTRIBUTION GRID</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthakuchana&theme=github-dark-b&hide_border=true&area=false&custom_title=Contributions" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthakuchana&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 <h2 align="center">CURRENTLY EXPLORING</h2>
@@ -98,7 +95,6 @@
   <em>"I trained an AI to think. Now I'm trying to do the same." — Siddhartha Kuchana</em>
 </p>
 
-<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" width="100%" />
 </p>
