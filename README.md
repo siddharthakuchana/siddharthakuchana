@@ -31,13 +31,13 @@
   My work spans building AI agent pipelines — smooth, highly efficient, and production-minded.<br/>
   I can build programs using AI agents smoothly and deliver highly efficient solutions.<br/>
   Currently focused on advancing in machine learning and building real-world prediction systems.<br/>
-  🌐 Check out my personal website: <a href="https://siddharthakuchana.com"><b>siddharthakuchana.com</b></a>
+  Check out my personal website: <a href="https://siddharthakuchana.in"><b>siddharthakuchana.com</b></a>
 </p>
 
 <h2 align="center">FEATURED PROJECTS</h2>
 
-| # | Project | Description | Stack |
-|---|:---|:---|:---|
+| S.No | Project | Description | Stack |
+|------|:---|:---|:---|
 | **1** | **AlignWell** | Health and wellness alignment app — forked and extended with new features | Python |
 | **2** | **Career Guidance Chatbot** | Conversational bot that helps students navigate career paths | PHP · ML |
 | **3** | **Operation Blackout** | A C++ terminal game — escape rooms by finding items and unlocking doors | C++ |
@@ -70,10 +70,10 @@
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<h2 align="center">GITHUB PROFILE OVERVIEW</h2>
+<h2 align="center">GITHUB PERFORMANCE METRICS</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthakuchana&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=cccccc&text_color=aaaaaa&bg_color=0f141c" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthakuchana&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0f141c" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthakuchana&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=cccccc&text_color=aaaaaa&bg_color=0f141c&include_all_commits=true&hide=stars,issues,contribs" height="150" />
+  <img src="https://streak-stats.demolab.com?user=siddharthakuchana&theme=dark&hide_border=true&background=0f141c&fire=ffffff&ring=444444&currStreakNum=aaaaaa&currStreakLabel=aaaaaa&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_current_streak=true" height="150" />
 </p>
 
 <h2 align="center">CURRENTLY EXPLORING</h2>
@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <em>"Code is like humour. When you have to explain it, it's bad." — Cory House</em>
+  <em>"I trained an AI to think. Now I'm trying to do the same." — Siddhartha Kuchana</em>
 </p>
 
 <!-- Footer Banner -->
