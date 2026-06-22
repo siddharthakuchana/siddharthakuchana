@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Explicitly grant the runner permission to write changes back to the repo
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,7 +17,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Explicitly passes write access here
+          persist-credentials: true
 
       - name: Generate 3D Calendar Grid
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -23,8 +27,8 @@ jobs:
           
       - name: Commit & Push Changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add profile-3d-contrib/
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib/
           git commit -m "Update native 3D contribution grid" || exit 0
-          git push origin main
+          git push
