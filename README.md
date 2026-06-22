@@ -31,7 +31,7 @@
   My work spans building AI agent pipelines — smooth, highly efficient, and production-minded.<br/>
   I can build programs using AI agents smoothly and deliver highly efficient solutions.<br/>
   Currently focused on advancing in machine learning and building real-world prediction systems.<br/>
-  Check out my personal website: <a href="https://siddharthakuchana.in"><b>siddharthakuchana.com</b></a>
+  🌐 Check out my personal website: <a href="https://siddharthakuchana.com"><b>siddharthakuchana.com</b></a>
 </p>
 
 <h2 align="center">FEATURED PROJECTS</h2>
@@ -74,6 +74,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddharthakuchana&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=cccccc&text_color=aaaaaa&bg_color=0f141c&include_all_commits=true&hide=stars,issues,contribs" height="150" />
   <img src="https://streak-stats.demolab.com?user=siddharthakuchana&theme=dark&hide_border=true&background=0f141c&fire=ffffff&ring=444444&currStreakNum=aaaaaa&currStreakLabel=aaaaaa&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_current_streak=true" height="150" />
+</p>
+
+<h2 align="center">CONTRIBUTION CALENDAR</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthakuchana&bg_color=0f141c&color=ffffff&line=aaaaaa&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
 
 <h2 align="center">CURRENTLY EXPLORING</h2>
