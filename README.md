@@ -75,7 +75,7 @@
 
 <h2 align="center">CONTRIBUTION GRID</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthakuchana&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/siddharthakuchana/siddharthakuchana/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Siddhartha's Contribution Grid" />
 </p>
 
 <h2 align="center">CURRENTLY EXPLORING</h2>
