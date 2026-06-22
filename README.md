@@ -78,7 +78,7 @@
 
 <h2 align="center">CONTRIBUTION CALENDAR</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/calendar/?username=siddharthakuchana&theme=dark&bg_color=0f141c&hide_border=true" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/alt-card?user=siddharthakuchana&theme=dark&hide_border=true&background=0f141c" width="95%" />
 </p>
 
 <h2 align="center">CURRENTLY EXPLORING</h2>
