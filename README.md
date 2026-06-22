@@ -70,7 +70,7 @@
 <h2 align="center">GITHUB PERFORMANCE METRICS</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddharthakuchana&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&icon_color=cccccc&text_color=aaaaaa&bg_color=0f141c&include_all_commits=true&hide=stars,issues,contribs" height="150" />
-  <img src="https://streak-stats.demolab.com?user=siddharthakuchana&theme=dark&hide_border=true&background=0f141c&fire=ffffff&ring=444444&currStreakNum=aaaaaa&currStreakLabel=aaaaaa&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_current_streak=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=siddharthakuchana&theme=dark&hide_border=true&background=0f141c&fire=ffffff&ring=444444&currStreakNum=aaaaaa&currStreakLabel=aaaaaa&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&cache_seconds=1" height="150" />
 </p>
 
 <h2 align="center">CONTRIBUTION GRID</h2>
