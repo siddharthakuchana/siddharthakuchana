@@ -1,111 +1,128 @@
-<!-- Banner -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Siddhartha%20Kuchana&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Thinker%20%7C%20Builder%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Siddhartha%20Kuchana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Thinker%20%7C%20Builder%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Namaste%2C+I'm+Siddhartha+Kuchana;Python+Developer+%7C+ML+Practitioner;Building+efficient+AI+agent+pipelines;Currently+diving+deep+into+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1200&color=FF4500&center=true&vCenter=true&width=700&lines=Namaste%2C+I'm+Siddhartha+Kuchana;Python+Developer+%7C+ML+Practitioner;Building+Highly+Efficient+AI+Agent+Pipelines;Currently+Diving+Deep+into+Deep+Learning" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/siddharthakuchana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siddharthakuchana0207@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/siddharthakuchana"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=siddharthakuchana&style=for-the-badge&color=6E40C9" alt="Profile Views" />
+  <a href="https://linkedin.com/in/siddharthakuchana">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/siddharthakuchana">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:siddharthakuchana0207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=siddharthakuchana&style=for-the-badge&color=FF4500" alt="Profile Views" />
 </p>
 
 ---
 
-## About Me
-
-I am proficient in Python and have an intermediate understanding of machine learning concepts, currently learning deep learning.
-My work spans building AI agent pipelines — smooth, highly efficient, and production-minded — alongside prediction systems and applied ML projects.
-Currently focused on advancing in machine learning and building real-world prediction systems.
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **AutoResultX** | Automated result extraction — no manual browsing needed | `Python` · `Selenium` |
-| **Career Guidance Chatbot** | Conversational bot that helps students navigate career paths | `PHP` · `ML` |
-| **Hospital Management System** | Full SQL-backed system for managing patient and staff records | `SQL` |
-| **LaTeX to Word/PDF** | Convert LaTeX documents into Word and PDF formats seamlessly | `Python` |
-| **AlignWell** | Health and wellness alignment app (forked and extended) | `Python` |
-| **Operation Blackout** | A C++ terminal game — escape rooms by finding items and unlocking doors | `C++` |
-| **Computer Fundamentals and Troubleshooting** | Reference resource for core computing concepts | `Docs` |
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**ML and Data**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-**Tools**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## GitHub Stats
+<h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthakuchana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthakuchana&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthakuchana&theme=tokyo-night&hide_border=true" />
-</p>
-
-<!-- Streak Block -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddharthakuchana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  I am proficient in Python with an intermediate understanding of machine learning concepts, currently learning deep learning.<br/>
+  My work spans building AI agent pipelines — smooth, highly efficient, and production-minded.<br/>
+  I can build programs using AI agents smoothly and deliver highly efficient solutions.<br/>
+  Currently focused on advancing in machine learning and building real-world prediction systems.
 </p>
 
 ---
 
-## Currently Exploring
+<h2 align="center">FEATURED PROJECTS</h2>
 
-- Deep learning concepts — neural networks, backpropagation, CNNs, RNNs
-- Building and practising real-world applications end to end
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 1 | **AlignWell** | Health and wellness alignment app — forked and extended with new features | `Python` |
+| 2 | **Career Guidance Chatbot** | Conversational bot that helps students navigate career paths | `PHP` · `ML` |
+| 3 | **Operation Blackout** | A C++ terminal game — escape rooms by finding items and unlocking doors | `C++` |
+| 4 | **AutoResultX** | Fully vibe coded — automated result extraction, no manual browsing needed | `Python` · `Selenium` |
+| 5 | **Hospital Management System** | Full SQL-backed system for managing patient and staff records | `SQL` |
+| 6 | **LaTeX to Word/PDF** | Convert LaTeX documents into Word and PDF formats seamlessly | `Python` |
+| 7 | **Computer Fundamentals and Troubleshooting** | Reference resource for core computing concepts | `Docs` |
 
 ---
 
-## Achievements
+<h2 align="center">TECH STACK</h2>
 
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64" title="Pull Shark" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="64" title="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" title="Quickdraw" />
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center"><strong>ML and Data</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF4500?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center"><strong>Tools and Automation</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+<h2 align="center">GITHUB STATS</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthakuchana&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF4500&icon_color=FF6347&text_color=ffffff&bg_color=0d0d0d" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthakuchana&layout=compact&theme=radical&hide_border=true&title_color=FF4500&text_color=ffffff&bg_color=0d0d0d" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthakuchana&bg_color=0d0d0d&color=FF4500&line=1E90FF&point=FF6347&area=true&hide_border=true" width="95%" />
+</p>
+
+---
+
+<h2 align="center">CONTRIBUTION STREAK</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=siddharthakuchana&theme=radical&hide_border=true&background=0d0d0d&stroke=FF4500&ring=1E90FF&fire=FF4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6347&sideLabels=1E90FF&dates=aaaaaa&date_format=j%20M%5B%2C%20Y%5D" width="60%" />
+</p>
+
+---
+
+<h2 align="center">CURRENTLY EXPLORING</h2>
+
+<p align="center">
+  Deep learning concepts — neural networks, CNNs, RNNs, and beyond<br/>
+  Building and practising real-world applications end to end
+</p>
+
+---
+
+<h2 align="center">ACHIEVEMENTS</h2>
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" title="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="64" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" title="Quickdraw" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code is like humour. When you have to explain it, it's bad." — Cory House</i>
+  <em>"Code is like humour. When you have to explain it, it's bad." — Cory House</em>
 </p>
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
