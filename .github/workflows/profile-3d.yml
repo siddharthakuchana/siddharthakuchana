@@ -10,15 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi38b/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4
+      
+      - name: Generate 3D Calendar Grid
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit & Push Changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Update native 3D contribution grid grid" || exit 0
+          git commit -m "Update native 3D contribution grid" || exit 0
           git push
