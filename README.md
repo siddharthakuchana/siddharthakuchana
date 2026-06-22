@@ -81,7 +81,7 @@
 
 <h2 align="center">CONTRIBUTION STREAK</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddharthakuchana&theme=radical&hide_border=true&background=0d0d0d&stroke=FF4500&ring=1E90FF&fire=FF4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6347&sideLabels=1E90FF&dates=aaaaaa&date_format=j%20M%5B%2C%20Y%5D" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=siddharthakuchana&theme=radical&hide_border=true&background=0d0d0d&stroke=FF4500&ring=1E90FF&fire=FF4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6347&sideLabels=1E90FF&dates=aaaaaa&date_format=j%20M%5B%2C%20Y%5D&zone=Asia/Kolkata" width="60%" />
 </p>
 
 <h2 align="center">CURRENTLY EXPLORING</h2>
