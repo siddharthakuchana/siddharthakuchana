@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Namaste%2C+I'm+Siddhartha+Kuchana;Python+Developer+%7C+ML+Practitioner;Building+Highly+Efficient+AI+Agent+Pipelines;Currently+Diving+Deep+into+Deep+Learning" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="./assets/alienx.gif" width="220" alt="Alien X — Ben 10" />
+  <img src="./asserts/alienx.gif" width="220" alt="Alien X — Ben 10" />
 </p>
 
 <p align="center">
